@@ -1,1 +1,3 @@
- Magic reveals itself only when you wander beyond the obvious.
+Internal development repository.
+
+Nothing interesting here.
