@@ -1,1 +1,1 @@
-The trail doesn't end here. Follow it to X
+ Magic reveals itself only when you wander beyond the obvious.
